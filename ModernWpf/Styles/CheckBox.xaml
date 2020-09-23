@@ -61,6 +61,7 @@
                                     x:Name="CheckGlyph"
                                     FontFamily="{DynamicResource SymbolThemeFontFamily}"
                                     Data="{StaticResource CheckMark}"
+                                    FlowDirection="LeftToRight"
                                     FontSize="16"
                                     Foreground="{DynamicResource CheckBoxCheckGlyphForegroundUnchecked}"
                                     Opacity="0" />
